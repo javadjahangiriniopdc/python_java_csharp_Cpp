@@ -1,0 +1,26 @@
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\drjj007\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\drjj007\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\drjj007\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\drjj007\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\drjj007\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\drjj007\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\drjj007\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\dev\Compare Language programming\C#\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\dev\Compare Language programming\C#\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\dev\Compare Language programming\C#\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\dev\Compare Language programming\C#\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\dev\Compare Language programming\C#\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\dev\Compare Language programming\C#\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\dev\Compare Language programming\C#\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

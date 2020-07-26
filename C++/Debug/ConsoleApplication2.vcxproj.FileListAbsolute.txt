@@ -1,0 +1,4 @@
+C:\Users\drjj007\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
+C:\Users\drjj007\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.pdb
+D:\dev\Compare Language programming\C++\Debug\ConsoleApplication2.exe
+D:\dev\Compare Language programming\C++\Debug\ConsoleApplication2.pdb
